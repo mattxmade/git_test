@@ -5,8 +5,8 @@
   <ul>
     <li>Setup new repository and name it git_test <strong>[ complete ]</strong></li>
     <li>Add a README file <strong>[ complete ]</strong></li>
-    <li>Clone git_test to local environment via CLI <strong>[ todo ]</strong></li>
-    <li>Create hello_world.txt within git-text <strong>[ todo ]</strong></li>
+    <li>Clone git_test to local environment via CLI <strong>[ complete ]</strong></li>
+    <li>Create hello_world.txt within git-text <strong>[ complete ]</strong></li>
   </ul>
 </p>
   
